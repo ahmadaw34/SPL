@@ -1,7 +1,7 @@
 # SPL
 SPL ASSIGNMENTS
 
-Assignment1 => gym_C++
+Assignment1 => OOP_C++
 
 Assignment2 => Simple Micro-Service framework_Threads_Java
 
