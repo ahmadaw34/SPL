@@ -15,7 +15,7 @@ Client:
 
 Input correctness:
 	- Date format: DD-MM-YYYY
-	- To edit filtered words go to: ./322390592_315250985/Server/src/main/java/bgu/spl/net/impl/objects/Messages.java (line:11) there is a private field which contains an array of strings for the words to filter.
+	- To edit filtered words go to: ./assignment3/Server/src/main/java/bgu/spl/net/impl/objects/Messages.java (line:11) there is a private field which contains an array of strings for the words to filter.
 
 
 Example of the correct format of written commands:
